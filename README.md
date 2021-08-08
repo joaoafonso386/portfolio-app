@@ -1,2 +1,3 @@
-# portfolio-app
-Angular App
+# Portfolio-app
+
+My first project made with Angular!
